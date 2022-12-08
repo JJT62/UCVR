@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.test_ocvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\joelt\\Documents\\GitHub-Unity\\UC-VR\\Test\\Test_OCVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Test_OCVR [Testing]"
+        }
+      }
+    }
+  ]
+}
